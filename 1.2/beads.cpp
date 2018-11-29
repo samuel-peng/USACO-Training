@@ -1,7 +1,7 @@
 /*
- * ID: samuelp1
- * PROB: beads
- * LANG: c++
+ ID: samuelp1
+ PROB: beads
+ LANG: c++
  */
 #include <iostream>
 #include <fstream>
